@@ -37,7 +37,7 @@ function process() {
     el.appendChild(Object.assign(
       document.createElement('span'), {
         className: 'one-click-edit',
-        textContent: 'E^',
+        textContent: 'E',
         title: 'Delete',
         onclick: onClick,
       }
