@@ -38,7 +38,7 @@ function process() {
       document.createElement('span'), {
         className: 'one-click-edit',
         textContent: 'E',
-        title: 'Delete',
+        title: 'Edit',
         onclick: onClick,
       }
     ));
